@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,5-Fold CV Acc
+Logistic Regression,0.86,0.899,0.922,0.91,0.901
+Decision Tree,0.83,0.885,0.896,0.89,0.826
+Random Forest,0.86,0.894,0.929,0.911,0.866
